@@ -2,4 +2,6 @@
 layout: default
 ---
 
-[Link to another page](another-page).
+[Home](index) | [About](about)
+
+
